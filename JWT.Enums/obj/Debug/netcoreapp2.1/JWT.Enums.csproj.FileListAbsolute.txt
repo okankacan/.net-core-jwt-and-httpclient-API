@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\bin\Debug\netcoreapp2.1\JWT.Enums.deps.json
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\bin\Debug\netcoreapp2.1\JWT.Enums.runtimeconfig.json
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\bin\Debug\netcoreapp2.1\JWT.Enums.runtimeconfig.dev.json
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\bin\Debug\netcoreapp2.1\JWT.Enums.dll
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\bin\Debug\netcoreapp2.1\JWT.Enums.pdb
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.RazorAssemblyInfo.cache
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.RazorAssemblyInfo.cs
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.AssemblyInfo.cs
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.RazorTargetAssemblyInfo.cache
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.dll
+C:\Users\asus\source\repos\CoreJWT\JWT.Enums\obj\Debug\netcoreapp2.1\JWT.Enums.pdb

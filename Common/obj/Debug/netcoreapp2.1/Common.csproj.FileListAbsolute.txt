@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\JWT.Enums.dll
+C:\Users\asus\source\repos\CoreJWT\Common\bin\Debug\netcoreapp2.1\JWT.Enums.pdb
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.RazorAssemblyInfo.cache
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.RazorAssemblyInfo.cs
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.RazorTargetAssemblyInfo.cache
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\asus\source\repos\CoreJWT\Common\obj\Debug\netcoreapp2.1\Common.pdb
